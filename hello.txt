@@ -1,0 +1,2 @@
+Hello, this is my first contribution
+This line was added to demonstrate staging and commiting
